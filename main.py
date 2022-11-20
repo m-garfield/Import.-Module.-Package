@@ -8,4 +8,5 @@ def main():
     people.get_employees()
     print(datetime.date.today())
 
-main()
+if __name__ == '__main__':
+    main()
